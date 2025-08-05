@@ -2,6 +2,7 @@
 
 [![Email](https://img.shields.io/badge/-nilaykhare1@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:nilaykhare1@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91%209407918845-4caf50?style=flat&logo=phone)](tel:+919407918845)
+[![Phone](https://img.shields.io/badge/Phone-+49%2017626723644-4caf50?style=flat&logo=phone)](tel:+4917626723644)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilaykhare23)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nilaykhare)
 
