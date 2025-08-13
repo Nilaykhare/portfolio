@@ -67,7 +67,7 @@ Delhi Public School, Balco, Korba, India
 ### Student Performance Indicator  
 - Built an end-to-end student performance prediction app using Flask and CI/CD pipeline on AWS.  
 - Implemented data ingestion, transformation, training, and deployment following MLOps best practices.  
-- [Project Demo](https://student-performance.example.com) | [GitHub Repository](https://github.com/Nilaykhare/Student-Performance-Indicator---End-to-End-MLOps-Project)
+- [GitHub Repository](https://github.com/Nilaykhare/Student-Performance-Indicator---End-to-End-MLOps-Project)
 
 ---
 
